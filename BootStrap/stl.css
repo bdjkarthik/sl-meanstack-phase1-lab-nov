@@ -1,0 +1,32 @@
+h1{
+    color: red;
+    
+    
+}
+
+a{
+    color: blue;
+}
+h2{
+    color: purple;
+}
+form{
+    color:blue;
+    }
+th{
+    color: red;
+}
+table{
+    margin: 10;
+    color: purple;
+}
+tr{
+    color: green;
+    background-color:thistle;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+
+
